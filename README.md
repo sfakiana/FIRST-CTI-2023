@@ -1,3 +1,6 @@
+![image](https://github.com/sfakiana/FIRST-CTI-2023/assets/1293098/20ceb27b-12d8-4116-8ac0-cc8b8682da54)
+
+
 FIRST CTI Conference 2023
 
 Spin Your CTI Process Round - Andreas Sfakianakis
