@@ -1,7 +1,7 @@
 ![image](https://github.com/sfakiana/FIRST-CTI-2023/assets/1293098/20ceb27b-12d8-4116-8ac0-cc8b8682da54)
 
+<img width="1204" alt="image" src="https://github.com/sfakiana/FIRST-CTI-2023/assets/1293098/48231c07-bcf4-4724-a5f6-82f8b93f7de8">
 
-<img width="1216" alt="image" src="https://github.com/sfakiana/FIRST-CTI-2023/assets/1293098/8b2e5527-9057-48ad-a2f6-022f6d274293">
 
 
 FIRST CTI Conference 2023
